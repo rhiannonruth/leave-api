@@ -8,3 +8,9 @@ This repo holds the Rails backend that queries external services and performs a 
 * Rails
 * Transport for London API
 * OpenWeatherMap API
+
+## Collaborators
++ Rhiannon Lolley Neville
++ Misa Ogura
++ Patrizio Donati
++ Shane Oston Stowe
